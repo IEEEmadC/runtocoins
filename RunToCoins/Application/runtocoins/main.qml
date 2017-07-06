@@ -4,8 +4,6 @@ import QtQuick.Layouts 1.0
 
 Item {
     visible: true
-    width: 640
-    height: 480
 
     Movin{
     }
@@ -19,5 +17,20 @@ Item {
     }
     StartCoin
     {}
+
+
+    Down{
+visible:false
+
+    }
+
+    Up{
+visible:false
+
+    }
+
+    TouchAcion{
+visible: false
+    }
 
 }
