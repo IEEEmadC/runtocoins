@@ -33,5 +33,5 @@ https://play.google.com/store/apps/details?id=com.totos.run.to.coins&hl=es
 
 ![alt text](https://github.com/javiermr/runtocoins/blob/master/RunToCoins/ScreenShots/5.png)
 
-# License
-BSD license
+# Licence
+BSD licence
